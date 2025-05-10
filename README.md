@@ -2,7 +2,7 @@
 
 A modern and responsive personal portfolio website built , showcasing a clean UI and smooth user interactions. The site highlights projects, skills, and contact information — ideal for personal branding and job applications.
 
-🔗 **Live Site**: [cozy-donut-b9708d.netlify.app](https://cozy-donut-b9708d.netlify.app)
+🔗 **Live Site**: [[cozy-donut-b9708d.netlify.app](https://cozy-donut-b9708d.netlify.app)](https://cozy-donut-b9708d.netlify.app)
 
 ---
 
